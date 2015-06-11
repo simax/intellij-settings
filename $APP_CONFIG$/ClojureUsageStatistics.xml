@@ -17,10 +17,6 @@
         <value>
           <map>
             <entry>
-              <key long="162" />
-              <value long="1" />
-            </entry>
-            <entry>
               <key long="161" />
               <value long="12" />
             </entry>
@@ -31,10 +27,6 @@
         <key keyword="cljs-file-selected" />
         <value>
           <map>
-            <entry>
-              <key long="162" />
-              <value long="1" />
-            </entry>
             <entry>
               <key long="161" />
               <value long="2" />
@@ -48,7 +40,7 @@
           <map>
             <entry>
               <key long="162" />
-              <value long="9" />
+              <value long="4" />
             </entry>
             <entry>
               <key long="161" />

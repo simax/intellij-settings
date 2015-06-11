@@ -1,9 +1,7 @@
 <scheme name="BlueForest" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8080" />
     <option name="ANNOTATIONS_COLOR" value="8080ff" />
@@ -58,11 +56,6 @@
         <option name="BACKGROUND" value="f05050" />
       </value>
     </option>
-    <option name="BASH.INTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="ffcc33" />
-      </value>
-    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="800000" />
@@ -112,7 +105,6 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="91ccff" />
-        <option name="BACKGROUND" value="141f2e" />
       </value>
     </option>
     <option name="COFFEESCRIPT.BAD_CHARACTER">
@@ -344,6 +336,7 @@
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="fffab1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
@@ -361,6 +354,7 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="91ccff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -483,53 +477,6 @@
     <option name="Clojure Strings">
       <value>
         <option name="FOREGROUND" value="a0ffa0" />
-      </value>
-    </option>
-    <option name="DEFAULT_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="50f050" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_COMMA">
-      <value />
-    </option>
-    <option name="DEFAULT_DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="50f050" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="99ff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="50f050" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="ff8080" />
-      </value>
-    </option>
-    <option name="DEFAULT_SEMICOLON">
-      <value />
-    </option>
-    <option name="DEFAULT_STRING">
-      <value>
-        <option name="FOREGROUND" value="a0ffa0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="83a6c1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -771,17 +718,58 @@
         <option name="BACKGROUND" value="20344d" />
       </value>
     </option>
+    <option name="ERL_BOLD">
+      <value>
+        <option name="FOREGROUND" value="50f050" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="50f050" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ERL_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="50f050" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ERL_ILLEGAL">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="f05050" />
+      </value>
+    </option>
+    <option name="ERL_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="99ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ERL_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff8080" />
+      </value>
+    </option>
+    <option name="ERL_RECORDS">
+      <value>
+        <option name="FOREGROUND" value="ffcc33" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ERL_STRING">
+      <value>
+        <option name="FOREGROUND" value="a0ffa0" />
+      </value>
+    </option>
+    <option name="ERL_VARIABLES">
+      <value>
+        <option name="FOREGROUND" value="f7ff66" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff3333" />
         <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="EXECUTIONPOINT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="ff" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -912,9 +900,82 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="HOCON_SUBSTITUTION_SIGN">
+    <option name="HAXE_BAD_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="b8bb" />
+        <option name="BACKGROUND" value="f05050" />
+      </value>
+    </option>
+    <option name="HAXE_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="50f050" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HAXE_CLASS">
+      <value>
+        <option name="FOREGROUND" value="91ccff" />
+      </value>
+    </option>
+    <option name="HAXE_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="50f050" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HAXE_INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="HAXE_INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HAXE_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="ffcc33" />
+      </value>
+    </option>
+    <option name="HAXE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="99ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HAXE_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="50f050" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HAXE_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="HAXE_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff8080" />
+      </value>
+    </option>
+    <option name="HAXE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HAXE_STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="HAXE_STRING">
+      <value>
+        <option name="FOREGROUND" value="a0ffa0" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -989,13 +1050,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="INFO_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="cccccc" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
@@ -1014,14 +1068,6 @@
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcc33" />
-      </value>
-    </option>
-    <option name="Implicit conversion">
-      <value>
-        <option name="FOREGROUND" value="f5f5f5" />
-        <option name="BACKGROUND" value="141f2e" />
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Instance field">
@@ -1068,7 +1114,6 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="99ff" />
-        <option name="BACKGROUND" value="141f2e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1275,6 +1320,37 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fffab1" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffcc33" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="50f050" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fa9632" />
       </value>
     </option>
     <option name="LUA_COMMENT">
@@ -1826,6 +1902,7 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
+        <option name="FOREGROUND" value="91ccff" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -2352,12 +2429,6 @@
         <option name="FOREGROUND" value="91ccff" />
       </value>
     </option>
-    <option name="Scala Immutable Collection">
-      <value>
-        <option name="FOREGROUND" value="91ccff" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="Scala Invalid escape in string">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -2396,13 +2467,6 @@
         <option name="FOREGROUND" value="f7ff66" />
       </value>
     </option>
-    <option name="Scala Mutable Collection">
-      <value>
-        <option name="FOREGROUND" value="91ccff" />
-        <option name="EFFECT_COLOR" value="395372" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="Scala Number">
       <value>
         <option name="FOREGROUND" value="ff8080" />
@@ -2411,6 +2475,11 @@
     <option name="Scala Object">
       <value>
         <option name="FOREGROUND" value="91ccff" />
+      </value>
+    </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Scala Parameter">
@@ -2505,12 +2574,6 @@
       <value>
         <option name="FOREGROUND" value="8000" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="Standart Java Collection">
-      <value>
-        <option name="FOREGROUND" value="91ccff" />
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="Static field">
@@ -2611,12 +2674,6 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="91ccff" />
-      </value>
-    </option>
-    <option name="TYPO">
-      <value>
-        <option name="EFFECT_COLOR" value="8000" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">

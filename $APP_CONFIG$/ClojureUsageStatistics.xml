@@ -2,54 +2,12 @@
   <component name="ClojureUsageStatistics">
     <map>
       <entry>
-        <key keyword="other-file-opened" />
-        <value>
-          <map>
-            <entry>
-              <key long="175" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="176" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="174" />
-              <value long="3" />
-            </entry>
-          </map>
-        </value>
-      </entry>
-      <entry>
         <key keyword="cljs-file-opened" />
         <value>
           <map>
             <entry>
-              <key long="175" />
+              <key long="184" />
               <value long="1" />
-            </entry>
-            <entry>
-              <key long="176" />
-              <value long="2" />
-            </entry>
-            <entry>
-              <key long="174" />
-              <value long="10" />
-            </entry>
-          </map>
-        </value>
-      </entry>
-      <entry>
-        <key keyword="clj-file-selected" />
-        <value>
-          <map>
-            <entry>
-              <key long="175" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="174" />
-              <value long="27" />
             </entry>
           </map>
         </value>
@@ -59,65 +17,8 @@
         <value>
           <map>
             <entry>
-              <key long="175" />
+              <key long="184" />
               <value long="1" />
-            </entry>
-            <entry>
-              <key long="176" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="174" />
-              <value long="38" />
-            </entry>
-          </map>
-        </value>
-      </entry>
-      <entry>
-        <key keyword="other-file-selected" />
-        <value>
-          <map>
-            <entry>
-              <key long="174" />
-              <value long="4" />
-            </entry>
-          </map>
-        </value>
-      </entry>
-      <entry>
-        <key keyword="clj-file-opened" />
-        <value>
-          <map>
-            <entry>
-              <key long="175" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="176" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="174" />
-              <value long="3" />
-            </entry>
-          </map>
-        </value>
-      </entry>
-      <entry>
-        <key keyword="project-opened" />
-        <value>
-          <map>
-            <entry>
-              <key long="175" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="176" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="174" />
-              <value long="3" />
             </entry>
           </map>
         </value>

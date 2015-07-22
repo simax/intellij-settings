@@ -1,5 +1,61 @@
 <application>
   <component name="ClojureUsageStatistics">
-    <map />
+    <map>
+      <entry>
+        <key keyword="cljs-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="203" />
+              <value long="9" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="clj-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="203" />
+              <value long="1" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="cljs-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="203" />
+              <value long="1" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="clj-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="203" />
+              <value long="1" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="project-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="203" />
+              <value long="1" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+    </map>
   </component>
 </application>

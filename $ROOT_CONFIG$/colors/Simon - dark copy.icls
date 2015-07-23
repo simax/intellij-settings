@@ -558,6 +558,12 @@
         <option name="FOREGROUND" value="ff5e89" />
       </value>
     </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="8080" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="800080" />

@@ -2,35 +2,12 @@
   <component name="ClojureUsageStatistics">
     <map>
       <entry>
-        <key keyword="other-file-opened" />
-        <value>
-          <map>
-            <entry>
-              <key long="188" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="187" />
-              <value long="7" />
-            </entry>
-          </map>
-        </value>
-      </entry>
-      <entry>
         <key keyword="cljs-file-opened" />
         <value>
           <map>
             <entry>
-              <key long="188" />
-              <value long="7" />
-            </entry>
-            <entry>
-              <key long="187" />
-              <value long="33" />
-            </entry>
-            <entry>
-              <key long="184" />
-              <value long="2" />
+              <key long="203" />
+              <value long="9" />
             </entry>
           </map>
         </value>
@@ -40,12 +17,8 @@
         <value>
           <map>
             <entry>
-              <key long="188" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="187" />
-              <value long="1" />
+              <key long="203" />
+              <value long="2" />
             </entry>
           </map>
         </value>
@@ -55,16 +28,8 @@
         <value>
           <map>
             <entry>
-              <key long="188" />
-              <value long="15" />
-            </entry>
-            <entry>
-              <key long="187" />
-              <value long="12" />
-            </entry>
-            <entry>
-              <key long="184" />
-              <value long="12" />
+              <key long="203" />
+              <value long="1" />
             </entry>
           </map>
         </value>
@@ -74,12 +39,8 @@
         <value>
           <map>
             <entry>
-              <key long="188" />
-              <value long="1" />
-            </entry>
-            <entry>
-              <key long="187" />
-              <value long="7" />
+              <key long="203" />
+              <value long="2" />
             </entry>
           </map>
         </value>
@@ -89,12 +50,12 @@
         <value>
           <map>
             <entry>
-              <key long="188" />
+              <key long="204" />
               <value long="1" />
             </entry>
             <entry>
-              <key long="187" />
-              <value long="7" />
+              <key long="203" />
+              <value long="3" />
             </entry>
           </map>
         </value>

@@ -431,11 +431,6 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
-    <option name="Instance property reference ID">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-      </value>
-    </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
@@ -508,11 +503,6 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
-      </value>
-    </option>
-    <option name="Map key">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -588,7 +578,7 @@
     </option>
     <option name="Rainbow Parens Level 3">
       <value>
-        <option name="FOREGROUND" value="7b1a4" />
+        <option name="FOREGROUND" value="2b198" />
       </value>
     </option>
     <option name="Rainbow Parens Level 4">
